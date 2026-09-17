@@ -7,7 +7,7 @@ The official [Mercado Pago](https://www.mercadopago.com/developers/en/guides) Ja
 
 ## 💡 Requirements
 
-Java 1.8 or later
+Java 17 or later
 
 ## 📲 Installation
 
